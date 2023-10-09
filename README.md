@@ -1,4 +1,4 @@
-# metalearn
+# MetaLearn
 # This is Heading One
 ## This is Heading  Two
 ### This is Heading Three
@@ -23,17 +23,6 @@ The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for t
 
 Where can I get some?
 There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
-
-	
-	paragraphs
-	words
-	bytes
-	lists
-	Start with 'Lorem
-ipsum dolor sit amet...'
-
-
-
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non varius augue. Praesent elementum dui vel purus congue viverra faucibus nec ipsum. Fusce dapibus mauris nibh, sagittis convallis nunc mollis eget. Nullam sapien sapien, pharetra vitae ligula at, efficitur rutrum magna. Morbi suscipit metus non quam fermentum vestibulum. Vestibulum gravida lacus odio, iaculis semper neque porta sit amet. In et est ut neque hendrerit aliquam in nec arcu. Quisque elementum ut enim non maximus. Donec auctor pulvinar nunc, vel tristique lectus tincidunt quis. Ut placerat laoreet felis at malesuada. Fusce pretium dignissim aliquet. Ut eget odio eget arcu ultrices fermentum. Vestibulum viverra non risus sed interdum.
 
